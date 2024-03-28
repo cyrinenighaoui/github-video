@@ -4,7 +4,7 @@ Model Information:
 * source:	https://sketchfab.com/3d-models/filigran-curves-animation-1b5bceb4c73c4766984b52aee5234e64
 * author:	smice (https://sketchfab.cqsxdczefbgnhgfedsqxwSZDEFGHom/smice)
 
-Model License:
+Model License:qszdedrfzedcf
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
